@@ -1,5 +1,5 @@
 
-  /* @apply :: es una característica especifica de tailwind CSS que te permite aplicar clases de tailwin CSS dentro de tu propio CSS personalizado */
+/* @apply :: es una característica especifica de tailwind CSS que te permite aplicar clases de tailwin CSS dentro de tu propio CSS personalizado */
 .link {
   @apply hover:underline hover:text-blue-400 mr-2 transition-all;
 }
