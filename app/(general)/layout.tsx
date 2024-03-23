@@ -14,7 +14,7 @@ export default function GeneralLayout(
     <>
       <Navbar />
       <main className="flex flex-col items-center p-24 text-5xl">
-        <span className="text-5xl">Hola Mundo</span>
+        <span className="text-2xl">Hola Mundo</span>
         {children}
       </main>
     </>
